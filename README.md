@@ -2,7 +2,7 @@
 
 This is a spin-off project of the original backend project for the AF Dashboard application. It is built using Flask and Celery, for learning purposes.
 
-The project aims to provide data processing and API services regarding the pharmaceutical assistance activities for the municipality of São José dos Pinhais.
+The project aims to provide real-time data visualization of pharmaceutical assistance activities for the municipality of São José dos Pinhais. Currently, it is able to display drug dispensation events as they occur at all the municipal health units.
 
 This project uses public data obtained through the municipality's [transparency website](https://saudetransparente2.sjp.pr.gov.br).
 
