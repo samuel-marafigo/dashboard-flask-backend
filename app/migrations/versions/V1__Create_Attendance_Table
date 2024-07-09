@@ -1,0 +1,6 @@
+CREATE TABLE attendances (
+    id INT PRIMARY KEY,
+    timestamp TIMESTAMP NOT NULL,
+    unit VARCHAR(255) NOT NULL,
+    quantity DOUBLE PRECISION NOT NULL
+);
