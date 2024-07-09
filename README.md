@@ -6,7 +6,8 @@ The project aims to provide data processing and API services regarding the pharm
 
 This project uses public data obtained through the municipality's [transparency website](https://saudetransparente2.sjp.pr.gov.br).
 
-The frontend for this project is available at: https://github.com/samuel-marafigo/dashboard-af-frontend).
+The frontend for this project is available at: https://github.com/samuel-marafigo/dashboard-af-frontend.
+
 The original backend for this project is available at: https://github.com/samuel-marafigo/dashboard-af-backend.
 
 
